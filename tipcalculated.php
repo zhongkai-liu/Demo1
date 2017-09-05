@@ -25,9 +25,6 @@
        $split = 1;
      }
     }
-    ++++++
-    sdafsdfa
-    dsfadsf
    }
    {
      if($bill <= 0)
