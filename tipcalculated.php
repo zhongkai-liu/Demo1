@@ -25,6 +25,9 @@
        $split = 1;
      }
     }
+    ++++++
+    sdafsdfa
+    dsfadsf
    }
    {
      if($bill <= 0)
@@ -78,7 +81,7 @@
                 <?php
                   $start=10;
                   $set=false;
-                  while($start<=20){
+                  while($start<=20){g
                     if($start==$percentage){
                       echo "<input type=\"radio\" name=\"percentage\" checked value=\"".$start."\">".$start."%</input><br>";
                       $set=true;
@@ -96,7 +99,15 @@
                     echo "<input class=\"customNumber\" type=\"text\" name=\"newpercentage\"></input>%<br>";
                   }
                  ?>
-
+                 o1.git
+                    3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> feature
 
               </div>
             </div>

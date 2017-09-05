@@ -18,6 +18,12 @@
             <div class="buttonBox">
               <div class="btn center" >
                 <a class="btnlink" href="tipcalculator.php">Reset</a>
+                o1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> featureo1.git
+   3412089..57f05f0  feature1 -> feature
               </div>
             </div>
           </div>
