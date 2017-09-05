@@ -9,6 +9,11 @@
    $bill = $total = $totalTip = $individual = $individualTip = 0.0;
    $split = $percentage = 0;
    {
+     dslkajflks
+
+     sdjflakdjfla
+
+     dfjaldfjkl
      $killBill = true;
      $bill = $_POST["billamount"];
      $percentage = $_POST["percentage"];
