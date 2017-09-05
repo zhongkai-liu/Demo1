@@ -5,11 +5,6 @@
       <link type="text/css" rel="stylesheet" href="css/form.css"/>
    </head>
    <body>
-     dfjlaksd
-     jfdklasdjf
-
-     fdjalkdjfa
-     
       <h1>Hello What's up!!!</h1>
       <div id="calculatorInterface" style="height: 500px">
         <form id="userForm" method="post" action="tipcalculated.php">
